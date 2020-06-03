@@ -9,16 +9,17 @@
 
 自用EFI，有需要可**自取使用**（白嫖许可）。
 
-## **请自行替换三码！！！**
-
 欢迎提issue交流！
+
+## ~~**请自行替换三码**~~ 三码已删除，请自行添加。
+
 
 ---
 
 ## 目前存在的问题（以及可能的问题）：
 1. 外放无声。
-2. 触摸板随机暴毙。
-    - 正在研究中，考虑尝试[liminghao1630/Y9000X-1080P-Hackintosh](https://github.com/liminghao1630/Y9000X-1080P-Hackintosh)的触摸板驱动方法。
+2. ~~触摸板随机暴毙~~。
+    - 感谢[liminghao1630/Y9000X-1080P-Hackintosh](https://github.com/liminghao1630/Y9000X-1080P-Hackintosh)的触摸板驱动方法，已正常驱动。
 3. Apple Watch解锁不好使。
     - 重新登陆iCloud**似乎能**解决。
 4. 系统运行几秒卡几秒（偶发现象，暂未找到原因）。
