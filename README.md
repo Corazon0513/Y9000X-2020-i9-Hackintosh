@@ -3,9 +3,12 @@
 
 ---
 
-硬盘M位为原厂PM981A**已屏蔽**，硬盘S位为SN750。更换了DW1820A无线网卡， 解锁了[CFG](http://bbs.pcbeta.com/viewthread-1845189-1-1.html)。
+硬盘M位为原厂PM981A**已屏蔽**，硬盘S位为SN750。更换了DW1820A无线网卡
+
+解锁了[CFG](http://bbs.pcbeta.com/viewthread-1845189-1-1.html)， 实测顶配(i9-32G-2T-UHD)的CFG地址也是0x3E，可放心按照教程修改。
 
 感谢[@WangRicky](https://github.com/WangRicky)前辈的[Y9000X-HACKINTOSH](https://github.com/WangRicky/Y9000X-HACKINTOSH)，本EFI基于他的EFI修改而来！
+
 
 自用EFI，有需要可**自取使用**（白嫖许可）。
 
@@ -28,4 +31,4 @@
 6. 指纹无法解锁（估计有生之年无解）。
 7. 一瞬性花屏。
 8. ~~白苹果太贵~~**没钱买白苹果**（我自己的问题）。
-9. 外接显示未经测试，还请反馈。
+9. 外接显示未经测试，还请反馈(~~如果真的有人关注这个Repository的话)~~。
