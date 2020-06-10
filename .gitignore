@@ -4,4 +4,9 @@
 /.Trashes/
 /System\ Volume\ Information/
 /EFI/OC/_config.plist
+/EFI/APPLE
+/EFI/OC/Kexts/backups/
 .DS_Store
+
+# 不上传测试中的TAS2770驱动
+/EFI/OC/Kexts/VoodooI2CTAS2770.kext/
