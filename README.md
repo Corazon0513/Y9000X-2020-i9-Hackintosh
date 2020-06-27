@@ -9,6 +9,8 @@
 
 解锁了[CFG](http://bbs.pcbeta.com/viewthread-1845189-1-1.html)， 实测顶配(i9-32G-2T-UHD)的CFG地址也是0x3E，可放心按照教程修改。
 
+**机型建议使用MacbookPro14,1**
+
 感谢[@WangRicky](https://github.com/WangRicky)前辈的[Y9000X-HACKINTOSH](https://github.com/WangRicky/Y9000X-HACKINTOSH)，本EFI基于他的EFI修改而来！
 
 
