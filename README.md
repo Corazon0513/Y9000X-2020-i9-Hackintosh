@@ -2,6 +2,8 @@
 ### [Corazon0513](https://github.com/Corazon0513)/[Y9000X-2020-i9-Hackintosh](https://github.com/Corazon0513/Y9000X-2020-i9-Hackintosh)
 
 ---
+**OC版本：0.6.0**
+
 
 硬盘M位为原厂PM981A**已屏蔽**，硬盘S位为SN750。更换了DW1820A无线网卡。
 
@@ -9,16 +11,16 @@
 
 解锁了[CFG](http://bbs.pcbeta.com/viewthread-1845189-1-1.html)， 实测顶配(i9-32G-2T-UHD)的CFG地址也是0x3E，可放心按照教程修改。
 
-**机型建议使用MacbookPro14,1**
-
-感谢[@WangRicky](https://github.com/WangRicky)前辈的[Y9000X-HACKINTOSH](https://github.com/WangRicky/Y9000X-HACKINTOSH)，本EFI基于他的EFI修改而来！
+**机型使用MacbookPro16,1**
 
 
 自用EFI，有需要可**自取使用**（白嫖许可）。
 
 欢迎提issue交流！
 
-## 三码已删除，请自行添加。
+## 三码已删除，请自行添加!!! 
+未添加三码会导致开机屏幕亮度奇低，如遇此现象先考虑添加三码
+
 ## 如对您有帮助，请 ~~一键三连~~ **🌟点亮Star**。
 
 ---
@@ -62,3 +64,6 @@
     - 该问题可能是网卡干扰导致。
 
 9.  外接HDMI好使，理论上DVI/VGA也好使，DP请自行测试。
+
+
+感谢[@WangRicky](https://github.com/WangRicky)前辈的[Y9000X-HACKINTOSH](https://github.com/WangRicky/Y9000X-HACKINTOSH)，本EFI基于他的EFI修改而来！
