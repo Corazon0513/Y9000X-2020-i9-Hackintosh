@@ -10,7 +10,7 @@
 				<key>Comment</key>
 				<string>SSDT-DNVMe</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-DNVMe.aml</string>
 			</dict>
@@ -18,7 +18,7 @@
 				<key>Comment</key>
 				<string>SSDT-DNVMe2</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>SSDT-DNVMe2.aml</string>
 			</dict>
@@ -507,11 +507,11 @@
 				<data>AQAAAA==</data>
 				<key>dpcd-max-link-rate</key>
 				<data>FAAAAA==</data>
-				<key>force-online</key>
-				<data>AQAAAA==</data>
 				<key>enable-dpcd-max-link-rate-fix</key>
 				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
+				<key>force-online</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
@@ -1171,7 +1171,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 -no_compat_check slide=1 brcmfx-country=#a</string>
+				<string>keepsyms=1 debug=0x100 -no_compat_check slide=1 brcmfx-aspm=255 brcmfx-country=#a</string>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>prev-lang:kbd</key>
